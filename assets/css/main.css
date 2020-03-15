@@ -2154,6 +2154,10 @@ input, select, textarea {
 					outline: 0;
 				}
 
+				#nav > ul > li.current > a {
+					 border-bottom: 3px solid white;
+				}
+
 				#nav > ul > li:hover > a {
 					color: #fff;
 				}

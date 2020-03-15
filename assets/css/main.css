@@ -2060,7 +2060,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/school/billBoard.jpeg") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2118,6 +2118,7 @@ input, select, textarea {
 	}
 
 		#nav > ul {
+			background-color: rgba(0, 0, 0, 0.7);
 			display: inline-block;
 			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
@@ -2135,6 +2136,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li > a, #nav > ul > li > span {
+					font-weight: bold;
 					display: block;
 					color: #eee;
 					color: rgba(255, 255, 255, 0.75);

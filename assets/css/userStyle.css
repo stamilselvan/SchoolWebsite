@@ -32,3 +32,16 @@
 	   text-align: justify;
 }
 
+
+/* 
+	Our Story page
+*/
+.trusteImg {
+	width: 45% !important;
+    height: 50%;
+    margin: 0 auto;
+    border: 3px solid #999999;
+    border-radius: 10px;
+    max-width: 250px;
+}
+

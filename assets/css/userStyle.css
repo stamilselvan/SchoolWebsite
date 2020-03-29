@@ -5,14 +5,20 @@
 	color: #414141;
 }
 
-.wrapper.style4 .title 
-{
-background : #CCCCCC;
+.bold {
+	font-weight: bold;
 }
 
-.wrapper.style4 {
-	background : #CCCCCC;
-	color: #000;
+tr:nth-child(odd) {
+	background: #CCC
+}
+
+tr:nth-child(even) {
+	background: #FFF
+}
+
+tr {
+	line-height: 3em;
 }
 
 /* 

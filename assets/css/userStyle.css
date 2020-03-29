@@ -1,4 +1,21 @@
 /* 
+	Common
+*/
+.style2 {
+	color: #414141;
+}
+
+.wrapper.style4 .title 
+{
+background : #CCCCCC;
+}
+
+.wrapper.style4 {
+	background : #CCCCCC;
+	color: #000;
+}
+
+/* 
 	Home page
 */
 
@@ -44,4 +61,3 @@
     border-radius: 10px;
     max-width: 250px;
 }
-
